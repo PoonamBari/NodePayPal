@@ -1,0 +1,21 @@
+{
+    "name": "paywave",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.1",
+        "express": "^4.17.2",
+        "express-validator": "^6.14.0",
+        "mongodb": "^4.3.1",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3",
+        "nodemon": "^2.0.7",
+        "paypal-rest-sdk": "^1.8.1"
+    },
+    "description": ""
+}
