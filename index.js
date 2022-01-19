@@ -11,8 +11,8 @@ app.use(express.urlencoded());
 
 paypal.configure({
     'mode': 'sandbox', //sandbox or live
-    'client_id': 'AfffSpQVI8i5VaSRSCztofru5nLElY_6HZdPH5moskZopA5ESSP2qRPpuAiIo8OBxNxqvg_tpQzZI8mB',
-    'client_secret': 'EHE4Rw5NQcFIhpimKwv1Lo8BXipkkyvAsiCY6VIYpU1Ra4XmH612iJ6QG07L3QkOoa13Unnm8Ho3yyZ0'
+    'client_id': 'AcGlV_01mbFmbqIo5YypcO3LNPx3M4wvHtKg6ZV4u7oRF17xX1Sf7r50H3hvDt81E7wugvA1kx81y9W8',
+    'client_secret': 'EOhuiMeGayGhDJU4LjvBsTvUrlj03DkWcv1FewqUTizcd3hJg5PcWFIx2sadyv-luziB1Vc0HlUIQJ1V'
 });
 
 const mysql = require('mysql2');
